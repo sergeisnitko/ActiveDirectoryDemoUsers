@@ -6,3 +6,5 @@ $CurrentFolder = Get-ScriptDirectory;
 $UserRows = GetUsersFromCSV("$CurrentFolder/adusers.csv")
 
 echo $UserRows
+
+
